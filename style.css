@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.navigation p {
+    display: inline-block;
+    margin-right: 1%;
+    padding: 5px;
+    height: 100%;
+    line-height: 100%;
+    border: 1px solid #080101;
+    background-color: #f2e7e7;
+    width: 14%;
+    text-align:center;
+    vertical-align: top;
+    text-transform: uppercase;
+    
+}
+.navigation p:hover {
+    background-color: #9f999a;
+}
+.navigation {
+    text-align: right;
+    
+}
+.navigation a {
+    text-decoration: none;
+    color: #0b0001;
+    font-size: 1.1em;
+    font-weight: 600;
+}
+.navigation a:hover {
+    text-decoration: underline;
+    
+}
